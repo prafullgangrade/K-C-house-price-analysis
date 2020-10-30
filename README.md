@@ -1,9 +1,9 @@
 # K-C-house-price-analysis
 K C house price data analysis using python.
-Data Analysis with Python
-House Sales in King County, USA
+### Data Analysis with Python
+#### House Sales in King County, USA
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
-
+###### features
 id : A notation for a house
 
 date: Date house was sold
