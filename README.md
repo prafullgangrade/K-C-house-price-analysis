@@ -59,3 +59,12 @@ from sklearn.linear_model import LinearRegression
 %matplotlib inline
 
 #### load data from here [K-C-house-price-analysis](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/coursera/project/kc_house_data_NaN.csv)
+
+#### STEPS
+'''
+Module 1: Importing Data Sets
+Module 2: Data Wrangling
+Module 3: Exploratory Data Analysis
+Module 4: Model Development
+Module 5: Model Evaluation and Refinement
+'''
